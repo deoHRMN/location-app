@@ -1,8 +1,8 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { MapContainer, TileLayer, Marker, Popup, Polyline } from 'react-leaflet';
+import { MapContainer, TileLayer, Marker, Popup, Polyline } from 'react-leaflet'; // importing markers, blue line for route and other components of a map
 import 'leaflet/dist/leaflet.css';
 import L from 'leaflet';
-import axios from 'axios';
+import axios from 'axios'; // importing to be used to fetch route information from API.
 
 // Define the coordinates for the KPU Surrey Library
 const libraryCoords = [49.13204, -122.87139];
