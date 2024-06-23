@@ -9,7 +9,7 @@ const libraryCoords = [49.13204, -122.87139];
 
 // Define a custom icon for the library marker
 const libraryIcon = new L.Icon({
-  iconUrl: 'https://cdn-icons-png.flaticon.com/512/167/167707.png', // Example icon URL
+  iconUrl: 'https://cdn-icons-png.flaticon.com/512/167/167707.png', // icon URL
   iconSize: [36, 61],       // Size of the icon
   iconAnchor: [12, 41],     // Point of the icon which corresponds to the marker's location
   popupAnchor: [1, -34],    // Point from which the popup should open relative to the iconAnchor
@@ -17,7 +17,7 @@ const libraryIcon = new L.Icon({
 
 // Define a custom icon for the user's current location marker
 const userIcon = new L.Icon({
-  iconUrl: 'https://cdn-icons-png.flaticon.com/512/149/149060.png', // Example icon URL
+  iconUrl: 'https://cdn-icons-png.flaticon.com/512/149/149060.png', // icon URL
   iconSize: [41, 41],       // Size of the icon
   iconAnchor: [12, 41],     // Point of the icon which corresponds to the marker's location
   popupAnchor: [1, -34],    // Point from which the popup should open relative to the iconAnchor
