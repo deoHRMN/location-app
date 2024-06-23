@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/location-app/static/css/main.7f78ee33.css",
+    "main.js": "/location-app/static/js/main.4b1553d0.js",
+    "index.html": "/location-app/index.html",
+    "main.7f78ee33.css.map": "/location-app/static/css/main.7f78ee33.css.map",
+    "main.4b1553d0.js.map": "/location-app/static/js/main.4b1553d0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f78ee33.css",
+    "static/js/main.4b1553d0.js"
+  ]
+}
